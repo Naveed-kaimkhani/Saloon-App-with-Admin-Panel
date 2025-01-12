@@ -91,18 +91,12 @@ Contributions are welcome! To contribute:
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
 ## Contact
 
 For queries or suggestions, please contact:
 - **Naveed Kaimkhani**
-- Email: [Your Email Address]
-- GitHub: [Naveed-kaimkhani](https://github.com/Naveed-kaimkhani)
+- Email: naveedkaimkhani87@gmail.com
+- Linkedin: https://www.linkedin.com/in/naveed-kaimkhani-499450220/
 
 ---
 
