@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "430510019297",
+    "project_id": "saloon-with-admin",
+    "storage_bucket": "saloon-with-admin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430510019297:android:cdd5b8e84099f8ab069da0",
+        "android_client_info": {
+          "package_name": "com.example.salon_with_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430510019297-mg7sc12oqmmvicusrallel16ie8m9ltf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.salon_with_admin",
+            "certificate_hash": "a25072a7879174294bb8e4d3b640729118b34638"
+          }
+        },
+        {
+          "client_id": "430510019297-f9mi14eg5srvdm5uk1v2pfpbsra277al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCBJUpYY-ZPDHUiLuGxDk1sVD4K0Bl2iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430510019297-f9mi14eg5srvdm5uk1v2pfpbsra277al.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "430510019297-shcd3l3blb517fc5i33t2v129e94786e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.salonWithAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430510019297:android:25884572ed299760069da0",
+        "android_client_info": {
+          "package_name": "idanhair.com.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430510019297-f9mi14eg5srvdm5uk1v2pfpbsra277al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCBJUpYY-ZPDHUiLuGxDk1sVD4K0Bl2iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430510019297-f9mi14eg5srvdm5uk1v2pfpbsra277al.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "430510019297-shcd3l3blb517fc5i33t2v129e94786e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.salonWithAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
